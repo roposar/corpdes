@@ -6,8 +6,8 @@
     <div class="container">
 
         <div class="section-header">
-            <h2 class="section-title text-center wow fadeInDown">About Us</h2>
-            <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <h2 class="section-title text-center wow fadeInDown">Nosotros</h2>
+            <p class="text-center wow fadeInDown">Corporacion para el desarrollo social y el emprendimiento Sostenible</p>
         </div>
 
         <div class="row">
